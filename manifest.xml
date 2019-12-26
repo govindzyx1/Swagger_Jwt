@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Assign-Message-1" version="SHA-512:bd30f1df9da1a35ee31129e493a3ec8fe88c73a2d31777d5d76e4a3d1eae71fc09ee3ada525e026b66c7b976eca645795c9a0718d21e6f94b2e8703fcf186194"/>
+        <VersionInfo resourceName="Assign-Message-2" version="SHA-512:b82f4372d2af84788f82ea96d3b24b6168bbd6d0bf5568575f8530cc14220a28420e97501f25a9ab3f637eeaea9f1ea0208ca8566815477e1a72cd9162043828"/>
+        <VersionInfo resourceName="Decode-JWT-1" version="SHA-512:10da9891dc3d1991dd73c3829c6b404b69a7fd1a1c44a3b2ed625a8f00bd24289b0c72d96875a95ccff1ff8ca8d89c7ce4b45935bfb01c6be6ad7e0c2af4a43b"/>
+        <VersionInfo resourceName="Generate-JWT-1" version="SHA-512:87f6b846446ada4c1626982b7a2fd3539d2493433d7552ce8a15bb3cb409bb79e6e07829d8ef017c2230f665cc99c2244e8aaab0c5121059a9ce4cd82dda7599"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:1b6ecee97f758a4ac2f7ae4da8dc692d39d918b15079e7885a60b6a8727c6675e1ff1c4d8d7472e77e2c169bf68f77b51c25e7482402d8a8baf5aaab110712db"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="openapi://association.json" version="SHA-512:7a257099be0bfb058d74fa140e40eb744d306aca02003d150d2d4a204d6bad714111b9f278c7d709d1a780a929ea95de5cf6544837bfd43a28d3539d0736f3dc"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:2574d22f003d22078d19402c2f4fbe8675dc05e96ce1c57faadcd20a949916189aed590c243ee44e3ad2d43287807fe6e2ddd8e89f0ff571e4bc05bd02aee16b"/>
+    </TargetEndpoints>
+</Manifest>
